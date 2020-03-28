@@ -4,17 +4,35 @@
   "userInfo": {},
   "news": [
     {
-      "title": "Kodi Leia now available!",
+      "title": "Kodi Leia now availible!",
       "identifier": "kodi-now-avail",
       "caption": "You can now download Kodi through AltStore",
       "tintColor": "2e9cc8",
       "imageURL": "https://kodi.tv/sites/default/files/article/field_image/Kodi_Splash_v18.6_Leia_Final_1080p.jpg",
       "appID": "org.xbmc.kodi-ios",
       "date": "2020-03-27",
-      "notify": true
+      "notify": false
     }
   ],
   "apps": [
+    {
+      "name": "Dolphin iOS",
+      "bundleIdentifier": "org.dolphin-emu.DolphiniOS",
+      "developerName": "Dolphin Emu Team",
+      "subtitle": "Your favorite GameCube and Wii games, now on iOS.",
+      "version": "1.0",
+      "versionDate": "2019-12-15T14:30:00-07:00",
+      "versionDescription": "Initial Release.",
+      "downloadURL": "https://quarklibrary.imfast.io/DolphiniOS/DolphiniOS.ipa",
+      "localizedDescription": "Basic stuff right now. Very much still a proof of concept on Jailed devices.",
+      "iconURL": "https://quarklibrary.imfast.io/DolphiniOS/icon.png",
+      "tintColor": "40cbff",
+      "size": 18960427,
+            "beta": false,
+      "screenshotURLs": [
+
+      ]
+    },
     {
       "name": "Kodi Leia",
       "bundleIdentifier": "org.xbmc.kodi-ios",
