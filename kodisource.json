@@ -11,7 +11,7 @@
       "imageURL": "https://kodi.tv/sites/default/files/article/field_image/Kodi_Splash_v18.6_Leia_Final_1080p.jpg",
       "appID": "org.xbmc.kodi-ios",
       "date": "2020-03-27",
-      "notify": false
+      "notify": true
     }
   ],
   "apps": [
