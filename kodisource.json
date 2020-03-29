@@ -16,7 +16,7 @@
   ],
   "apps": [
     {
-      "name": "Kodi Leia",
+      "name": "Kodi 18.6",
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Team Kodi",
       "subtitle": "An Open Source Entertainment Center",
