@@ -1,20 +1,7 @@
 {
   "name": "Kodi Leia Source",
   "identifier": "com.kodi.source",
-  "userInfo": {},
-  "news": [
-    {
-      "title": "Kodi Leia now available!",
-      "identifier": "kodi-now-avail",
-      "caption": "You can now download Kodi through AltStore",
-      "tintColor": "2e9cc8",
-      "imageURL": "https://kodi.tv/sites/default/files/article/field_image/Kodi_Splash_v18.6_Leia_Final_1080p.jpg",
-      "appID": "org.xbmc.kodi-ios",
-      "date": "2020-03-27",
-      "notify": false
-    }
-  ],
-  "apps": [
+ "apps": [
     {
       "name": "Kodi Leia",
       "bundleIdentifier": "org.xbmc.kodi-ios",
@@ -32,6 +19,18 @@
       "screenshotURLs": [
         "https://github.com/jawshoeadan/KodiAltSource/raw/master/kodiscreenshot.jpg"
       ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Kodi Leia now available!",
+      "identifier": "kodi-now-avail",
+      "caption": "You can now download Kodi through AltStore",
+      "tintColor": "2e9cc8",
+      "imageURL": "https://kodi.tv/sites/default/files/article/field_image/Kodi_Splash_v18.6_Leia_Final_1080p.jpg",
+      "appID": "org.xbmc.kodi-ios",
+      "date": "2020-03-27",
+      "notify": false
     }
   ]
 }
