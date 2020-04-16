@@ -1,0 +1,24 @@
+{
+  "name": "TetherNoJailbreak",
+  "identifier": "com.jawshoeadan.TetherNoJailbreak",
+  "userInfo": {},
+  
+  "apps": [
+    {
+      "name": "TetherNoJailbreak",
+      "bundleIdentifier": "com.ksams.Tethering",
+      "developerName": "ksams",
+      "subtitle": "An app to tether without jailbreak",
+      "version": "1.7",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "",
+      "downloadURL": "https://github.com/jawshoeadan/KodiAltSource/releases/download/18.6/tethernojailbreakrepackage.ipa",
+      "localizedDescription": "An app that lets you tether without jailbreaking",
+      "iconURL": "https://github.com/jawshoeadan/KodiAltSource/releases/download/18.6/AppIcon60x60@2x.png",
+      "tintColor": "2e9cc8",
+      "size": 83034112,
+      "beta": false,
+      
+    }
+  ]
+}
